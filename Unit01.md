@@ -1,3 +1,10 @@
+---
+layout: default
+title: "MA103: Multivariable Calculus"
+course_description: "An examination of the definitions of the basic trigonometric functions and their properties, trigonometric equations and identities, the laws of sines and cosines, polar coordinates and graphs, parametric equations, and elementary vector operations."
+next: ../Unit02
+previous: ../Intro
+---
 **Unit 1: Vectors and Matrices** <span id="1"></span> 
 *This unit begins with a discussion of vectors and vector algebra.  You
 will study and then be able to define the geometric properties of the

@@ -1,3 +1,10 @@
+---
+layout: default
+title: "MA103: Multivariable Calculus"
+course_description: "An examination of the definitions of the basic trigonometric functions and their properties, trigonometric equations and identities, the laws of sines and cosines, polar coordinates and graphs, parametric equations, and elementary vector operations."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: Double Integrals and Line Integrals in the Plane** <span
 id="3"></span> 
 *In Single-Variable Calculus, you learned that the integral of a

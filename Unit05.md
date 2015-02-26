@@ -1,3 +1,10 @@
+---
+layout: default
+title: "MA103: Multivariable Calculus"
+course_description: "An examination of the definitions of the basic trigonometric functions and their properties, trigonometric equations and identities, the laws of sines and cosines, polar coordinates and graphs, parametric equations, and elementary vector operations."
+next: ../../../
+previous: ../Unit04
+---
 **Unit 5: Final Exam** <span id="5"></span> 
 -   **Final Exam: The Saylor Foundation's MA103 Final Exam**
     Link: The Saylor Foundation's [MA103 Final

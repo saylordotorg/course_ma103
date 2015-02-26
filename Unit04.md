@@ -1,3 +1,10 @@
+---
+layout: default
+title: "MA103: Multivariable Calculus"
+course_description: "An examination of the definitions of the basic trigonometric functions and their properties, trigonometric equations and identities, the laws of sines and cosines, polar coordinates and graphs, parametric equations, and elementary vector operations."
+next: ../Unit05
+previous: ../Unit03
+---
 **Unit 4: Triple Integrals and Surface Integrals in 3-Dimensional
 Space** <span id="4"></span> 
 *One common misconception of multiple integrals is that the primary

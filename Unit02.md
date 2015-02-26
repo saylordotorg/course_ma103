@@ -1,3 +1,10 @@
+---
+layout: default
+title: "MA103: Multivariable Calculus"
+course_description: "An examination of the definitions of the basic trigonometric functions and their properties, trigonometric equations and identities, the laws of sines and cosines, polar coordinates and graphs, parametric equations, and elementary vector operations."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: Partial Differentiation** <span id="2"></span> 
 *For single-variable functions, the derivative of the graph at a
 specified point is the slope of the tangent line at that point.  This is
