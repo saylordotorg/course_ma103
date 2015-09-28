@@ -199,3 +199,4 @@ the Final Exam.
 - [Unit 3](https://legacy.saylor.org/ma103/Unit03/)
 - [Unit 4](https://legacy.saylor.org/ma103/Unit04/)
 - [Unit 5](https://legacy.saylor.org/ma103/Unit05/)
+- [Final Exam](http://saylordotorg.github.io/LegacyExams/MA/MA103/MA103-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/MA/MA103/MA103-FinalExam-Answers.html)
