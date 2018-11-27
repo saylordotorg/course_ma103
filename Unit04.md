@@ -106,7 +106,7 @@ Upon successful completion of this unit, the student will be able to:
     Integrals and Surface Integrals in 3-Space:”**
     Link: MIT: Denis Auroux’s *Multivariable Calculus:* [“IV. Triple
     Integrals and Surface Integrals in
-    3-space”](http://www.saylor.org/site/wp-content/uploads/2012/09/MA103-Auroux-4.1.1.pdf) (PDF)  
+    3-space”](https://resources.saylor.org/archived/wp-content/uploads/2012/09/MA103-Auroux-4.1.1.pdf) (PDF)  
         
      Instructions: Please access the link above and read the entire PDF
     document (4 pages).  Please note that this reading is paired with
@@ -164,7 +164,7 @@ Upon successful completion of this unit, the student will be able to:
 -   **Activity: The Saylor Foundation: Math Insight’s “Introduction to
     Triple Integrals”**
     Link: The Saylor Foundation: Math Insight’s [“Introduction to Triple
-    Integrals”](http://www.saylor.org/site/wp-content/uploads/2012/10/MA103-Introduction-to-Triple-Integrals.pdf) (PDF)  
+    Integrals”](https://resources.saylor.org/archived/wp-content/uploads/2012/10/MA103-Introduction-to-Triple-Integrals.pdf) (PDF)  
       
      Also Available in:  
      [HTML and
@@ -283,7 +283,7 @@ id="4.2.1"></span> 
     Integrals and Surface Integrals in 3-space”**
     Link: MIT: Denis Auroux’s *Multivariable Calculus:* [“IV. Triple
     Integrals and Surface Integrals in
-    3-space”](http://www.saylor.org/site/wp-content/uploads/2012/09/MA103-Auroux-4.2.1.pdf) (PDF)  
+    3-space”](https://resources.saylor.org/archived/wp-content/uploads/2012/09/MA103-Auroux-4.2.1.pdf) (PDF)  
         
      Instructions: Access the link above and read the entire PDF
     document (5 pages).  Please note that this reading is paired with
@@ -344,11 +344,11 @@ id="4.2.1"></span> 
     Link: The Saylor Foundation: <span
     style="background-color: transparent; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; ">Math
     Insight’s</span>
-    [“](http://www.saylor.org/site/wp-content/uploads/2012/10/MA103-Introduction-to-a-Surface-Integral-of-a-Scalar-Valued-Function.pdf)[I](http://www.saylor.org/site/wp-content/uploads/2012/10/MA103-Introduction-to-a-Surface-Integral-of-a-Scalar-Valued-Function.pdf)[ntroduction
+    [“](https://resources.saylor.org/archived/wp-content/uploads/2012/10/MA103-Introduction-to-a-Surface-Integral-of-a-Scalar-Valued-Function.pdf)[I](https://resources.saylor.org/archived/wp-content/uploads/2012/10/MA103-Introduction-to-a-Surface-Integral-of-a-Scalar-Valued-Function.pdf)[ntroduction
     to a Surface Integral of a Scalar-Valued
-    Function”](http://www.saylor.org/site/wp-content/uploads/2012/10/MA103-Introduction-to-a-Surface-Integral-of-a-Scalar-Valued-Function.pdf) (PDF)
+    Function”](https://resources.saylor.org/archived/wp-content/uploads/2012/10/MA103-Introduction-to-a-Surface-Integral-of-a-Scalar-Valued-Function.pdf) (PDF)
     and [“Introduction to a Surface Integral of a Vector
-    Field”](http://www.saylor.org/site/wp-content/uploads/2012/10/MA103-Introduction-to-a-Surface-Integral-of-a-Vector-Field.pdf) (PDF)  
+    Field”](https://resources.saylor.org/archived/wp-content/uploads/2012/10/MA103-Introduction-to-a-Surface-Integral-of-a-Vector-Field.pdf) (PDF)  
       
      Also Available in:  
      [HTML and
@@ -413,7 +413,7 @@ id="4.2.1"></span> 
     Integrals and Surface Integrals in 3-space”**
     Link: MIT: Denis Auroux’s *Multivariable Calculus:* [“IV. Triple
     Integrals and Surface Integrals in
-    3-space”](http://www.saylor.org/site/wp-content/uploads/2012/09/MA103-Auroux-4.2.2.pdf) (PDF)  
+    3-space”](https://resources.saylor.org/archived/wp-content/uploads/2012/09/MA103-Auroux-4.2.2.pdf) (PDF)  
         
      Instructions: Open the link posted above and read the entire PDF
     document (2 pages).  Please note that this reading is paired with
@@ -496,7 +496,7 @@ id="4.2.1"></span> 
     Integrals and Surface Integrals in 3-space”**
     Link: MIT: Denis Auroux’s *Multivariable Calculus:* [“IV. Triple
     Integrals and Surface Integrals in
-    3-space”](http://www.saylor.org/site/wp-content/uploads/2012/09/MA103-Auroux-4.3.1.pdf) (PDF)  
+    3-space”](https://resources.saylor.org/archived/wp-content/uploads/2012/09/MA103-Auroux-4.3.1.pdf) (PDF)  
         
      Instructions: Open and read the entire PDF document (5 pages)
     posted above. This reading is paired with the video lecture above so
@@ -587,7 +587,7 @@ id="4.2.1"></span> 
     Stoke’s Theorem”**
     Link: The Saylor Foundation: Math Insight’s [“The Idea behind
     Stoke's
-    Theorem”](http://www.saylor.org/site/wp-content/uploads/2012/10/MA103-The-Idea-Behind-Stokes’-Theorem.pdf) (PDF)  
+    Theorem”](https://resources.saylor.org/archived/wp-content/uploads/2012/10/MA103-The-Idea-Behind-Stokes’-Theorem.pdf) (PDF)  
       
      Also Available in:  
      [HTML and Java](http://mathinsight.org/stokes_theorem_idea)  
@@ -655,7 +655,7 @@ id="4.2.1"></span> 
     Integrals and Surface Integrals in 3-space”**
     Link: MIT: Denis Auroux’s *Multivariable Calculus:* [“IV. Triple
     Integrals and Surface Integrals in
-    3-space”](http://www.saylor.org/site/wp-content/uploads/2012/09/MA103-Auroux-4.5.pdf) (PDF)  
+    3-space”](https://resources.saylor.org/archived/wp-content/uploads/2012/09/MA103-Auroux-4.5.pdf) (PDF)  
         
      Instructions: This reading is optional.  Please click on the PDF
     link after “Week 14 Summary” under the “IV. Triple Integrals and
