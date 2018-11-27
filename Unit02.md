@@ -78,7 +78,7 @@ Upon successful completion of this unit, the student will be able to:
     Link: The Saylor Foundation: <span
     style="background-color: transparent; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; ">Math
     Insight’s </span>[“Level
-    Sets”](http://www.saylor.org/site/wp-content/uploads/2012/10/MA103-Level-Sets.pdf)<span
+    Sets”](https://resources.saylor.org/archived/wp-content/uploads/2012/10/MA103-Level-Sets.pdf)<span
     style="background-color: transparent;"> (PDF)  
       
      Also Available in:  
@@ -129,7 +129,7 @@ Upon successful completion of this unit, the student will be able to:
 -   **Reading: MIT: Denis Auroux’s Multivariable Calculus: “II. Partial
     Derivatives:”**
     Link: MIT: Denis Auroux’s *Multivariable Calculus:* [“II. Partial
-    Derivatives”](http://www.saylor.org/site/wp-content/uploads/2012/09/MA103-Auroux-2.1.1.pdf) (PDF)  
+    Derivatives”](https://resources.saylor.org/archived/wp-content/uploads/2012/09/MA103-Auroux-2.1.1.pdf) (PDF)  
         
      Instructions: Read the entire PDF document (4 pages).  Please note
     that this reading is paired with the video lecture above so please
@@ -252,9 +252,9 @@ id="2.1.4"></span> 
     Partial Derivatives"**
     Link: The Saylor Foundation: <span
     style="background-color: transparent; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; ">Math
-    Insight’s </span> [“](http://www.saylor.org/site/wp-content/uploads/2012/10/MA103-Introduction-to-Partial-Derivatives.pdf)[I](http://www.saylor.org/site/wp-content/uploads/2012/10/MA103-Introduction-to-Partial-Derivatives.pdf)[n](http://www.saylor.org/site/wp-content/uploads/2012/10/MA103-Introduction-to-Partial-Derivatives.pdf)[troduction
+    Insight’s </span> [“](https://resources.saylor.org/archived/wp-content/uploads/2012/10/MA103-Introduction-to-Partial-Derivatives.pdf)[I](https://resources.saylor.org/archived/wp-content/uploads/2012/10/MA103-Introduction-to-Partial-Derivatives.pdf)[n](https://resources.saylor.org/archived/wp-content/uploads/2012/10/MA103-Introduction-to-Partial-Derivatives.pdf)[troduction
     to Partial
-    Derivatives”](http://www.saylor.org/site/wp-content/uploads/2012/10/MA103-Introduction-to-Partial-Derivatives.pdf) (PDF<span
+    Derivatives”](https://resources.saylor.org/archived/wp-content/uploads/2012/10/MA103-Introduction-to-Partial-Derivatives.pdf) (PDF<span
     style="background-color: transparent;">)  
       
      Also Available in:  
@@ -303,7 +303,7 @@ id="2.1.4"></span> 
 -   **Reading: MIT: Denis Auroux’s Multivariable Calculus: “II. Partial
     Derivatives”**
     Link: MIT: Denis Auroux’s *Multivariable Calculus:* [“II. Partial
-    Derivatives”](http://www.saylor.org/site/wp-content/uploads/2012/09/MA103-Auroux-2.2.1.pdf) (PDF)  
+    Derivatives”](https://resources.saylor.org/archived/wp-content/uploads/2012/09/MA103-Auroux-2.2.1.pdf) (PDF)  
         
      Instructions: Read the entire PDF file (4 pages). Please note that
     this reading is paired with the video lecture above so please read
@@ -432,9 +432,9 @@ id="2.1.4"></span> 
     Link: The Saylor Foundation: <span
     style="background-color: transparent; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; ">Math
     Insight’s
-    </span>[“](http://www.saylor.org/site/wp-content/uploads/2012/10/MA103-An-Introduction-to-the-Directional-Derivative-and-the-Gradient.pdf)[A](http://www.saylor.org/site/wp-content/uploads/2012/10/MA103-An-Introduction-to-the-Directional-Derivative-and-the-Gradient.pdf)[n
+    </span>[“](https://resources.saylor.org/archived/wp-content/uploads/2012/10/MA103-An-Introduction-to-the-Directional-Derivative-and-the-Gradient.pdf)[A](https://resources.saylor.org/archived/wp-content/uploads/2012/10/MA103-An-Introduction-to-the-Directional-Derivative-and-the-Gradient.pdf)[n
     Introduction to the Directional Derivative and the
-    Gradient”](http://www.saylor.org/site/wp-content/uploads/2012/10/MA103-An-Introduction-to-the-Directional-Derivative-and-the-Gradient.pdf)<span
+    Gradient”](https://resources.saylor.org/archived/wp-content/uploads/2012/10/MA103-An-Introduction-to-the-Directional-Derivative-and-the-Gradient.pdf)<span
     style="background-color: transparent;"> (PDF)  
       
      Also Available in:  
@@ -589,7 +589,7 @@ id="2.2.3"></span> 
 -   **Reading: MIT: Denis Auroux’s Multivariable Calculus: “II. Partial
     Derivatives:”**
     Link: MIT: Denis Auroux’s *Multivariable Calculus:* [“II. Partial
-    Derivatives”](http://www.saylor.org/site/wp-content/uploads/2012/09/MA103-Auroux-2.2.41.pdf) (PDF)  
+    Derivatives”](https://resources.saylor.org/archived/wp-content/uploads/2012/09/MA103-Auroux-2.2.41.pdf) (PDF)  
         
      Instructions: Open the link above and read the entire PDF document
     (3 pages).  Please note that this reading is paired with the video

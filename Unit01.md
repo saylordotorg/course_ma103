@@ -149,7 +149,7 @@ Upon successful completion of this unit, the student will be able to:
       
      Note: As printed, Problem 1 has some errors that may affect your
     answer to Problem 2. An updated version of the problem is provided
-    [here](http://www.saylor.org/site/wp-content/uploads/2012/10/ReplacementQuestion.pdf)
+    [here](https://resources.saylor.org/archived/wp-content/uploads/2012/10/ReplacementQuestion.pdf)
     (PDF).  
         
      Terms of Use: Please respect the copyright and terms of use
@@ -227,7 +227,7 @@ Upon successful completion of this unit, the student will be able to:
     and Matrices: Week 1 Summary”**
     Link: MIT: Denis Auroux’s *Multivariable Calculus:* [“I. Vectors and
     Matrices: Week 1
-    Summary”](http://www.saylor.org/site/wp-content/uploads/2012/09/MA103-Auroux-1.1.3.pdf) (PDF)  
+    Summary”](https://resources.saylor.org/archived/wp-content/uploads/2012/09/MA103-Auroux-1.1.3.pdf) (PDF)  
         
      Instructions: Read the entire PDF document (3 pages).  Please note
     that this reading is paired with the video lecture posted in the
@@ -279,7 +279,7 @@ Upon successful completion of this unit, the student will be able to:
     and Matrices:” “Week 2 Summary”**
     Link: MIT: Denis Auroux’s *Multivariable Calculus:* [“I. Vectors and
     Matrices: Week 2
-    Summary”](http://www.saylor.org/site/wp-content/uploads/2012/09/MA103-Auroux-1.2.1.pdf) (PDF)  
+    Summary”](https://resources.saylor.org/archived/wp-content/uploads/2012/09/MA103-Auroux-1.2.1.pdf) (PDF)  
         
      Instructions: Read the entire document (5 pages).  Please note that
     this reading is paired with the video lectures posted in the
@@ -528,11 +528,11 @@ Upon successful completion of this unit, the student will be able to:
     Link: The Saylor Foundation: <span
     style="background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; ">Math
     Insight</span>’s
-    [“](http://www.saylor.org/site/wp-content/uploads/2012/10/MA103-Arc-length-of-a-Parameterized-Curve.pdf)[The A](http://www.saylor.org/site/wp-content/uploads/2012/10/MA103-Arc-length-of-a-Parameterized-Curve.pdf)<span
+    [“](https://resources.saylor.org/archived/wp-content/uploads/2012/10/MA103-Arc-length-of-a-Parameterized-Curve.pdf)[The A](https://resources.saylor.org/archived/wp-content/uploads/2012/10/MA103-Arc-length-of-a-Parameterized-Curve.pdf)<span
     lang="zxx"><span
     style="background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-position: initial initial; background-repeat: initial initial; ">[rc
     Length of a Parametrized
-    Cu](http://www.saylor.org/site/wp-content/uploads/2012/10/MA103-Arc-length-of-a-Parameterized-Curve.pdf)</span></span>[rv](http://www.saylor.org/site/wp-content/uploads/2012/10/MA103-Arc-length-of-a-Parameterized-Curve.pdf)[e”](http://www.saylor.org/site/wp-content/uploads/2012/10/MA103-Arc-length-of-a-Parameterized-Curve.pdf)<span
+    Cu](https://resources.saylor.org/archived/wp-content/uploads/2012/10/MA103-Arc-length-of-a-Parameterized-Curve.pdf)</span></span>[rv](https://resources.saylor.org/archived/wp-content/uploads/2012/10/MA103-Arc-length-of-a-Parameterized-Curve.pdf)[e”](https://resources.saylor.org/archived/wp-content/uploads/2012/10/MA103-Arc-length-of-a-Parameterized-Curve.pdf)<span
     style="background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; "> (PDF)  
       
      Also Available in:  
@@ -623,7 +623,7 @@ Upon successful completion of this unit, the student will be able to:
 -   **Reading: MIT: Denis Auroux’s Multivariable Calculus: “I. Vectors
     and Matrices”**
     Link: MIT: Denis Auroux’s *Multivariable Calculus:* [“I. Vectors and
-    Matrices”](http://www.saylor.org/site/wp-content/uploads/2012/09/MA103-Auroux-1.3.4.pdf) (PDF)  
+    Matrices”](https://resources.saylor.org/archived/wp-content/uploads/2012/09/MA103-Auroux-1.3.4.pdf) (PDF)  
         
      Instructions: Read the entire PDF file (3 pages).  Please note that
     this reading is paired with the video lecture above so please read

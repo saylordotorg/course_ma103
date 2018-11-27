@@ -106,7 +106,7 @@ Upon successful completion of this unit, the student will be able to:
     Integrals and Line Integrals in the Plane”**
     Link: MIT: Denis Auroux’s *Multivariable Calculus:* [“III. Double
     Integrals and Line Integrals in the
-    Plane”](http://www.saylor.org/site/wp-content/uploads/2012/09/MA103-Auroux-3.1.1.pdf) (PDF)   
+    Plane”](https://resources.saylor.org/archived/wp-content/uploads/2012/09/MA103-Auroux-3.1.1.pdf) (PDF)   
       
      Instructions: Read the entire PDF document (4 pages).  Please note
     that this reading is paired with the video lecture above so please
@@ -168,11 +168,11 @@ Upon successful completion of this unit, the student will be able to:
     Link: The Saylor Foundation: <span
     style="background-color: transparent; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; ">Math
     Insight’s
-    </span>[“](http://www.saylor.org/site/wp-content/uploads/2012/10/MA103-An-Introduction-to-Double-Integrals.pdf)[I](http://www.saylor.org/site/wp-content/uploads/2012/10/MA103-An-Introduction-to-Double-Integrals.pdf)[ntroduction
+    </span>[“](https://resources.saylor.org/archived/wp-content/uploads/2012/10/MA103-An-Introduction-to-Double-Integrals.pdf)[I](https://resources.saylor.org/archived/wp-content/uploads/2012/10/MA103-An-Introduction-to-Double-Integrals.pdf)[ntroduction
     to Double
-    Integrals”](http://www.saylor.org/site/wp-content/uploads/2012/10/MA103-An-Introduction-to-Double-Integrals.pdf) (PDF)
+    Integrals”](https://resources.saylor.org/archived/wp-content/uploads/2012/10/MA103-An-Introduction-to-Double-Integrals.pdf) (PDF)
     and [“Double Integrals as
-    Volume”](http://www.saylor.org/site/wp-content/uploads/2012/10/MA103-Double-Integrals-as-Voume.pdf) (PDF)  
+    Volume”](https://resources.saylor.org/archived/wp-content/uploads/2012/10/MA103-Double-Integrals-as-Voume.pdf) (PDF)  
       
      <span style="background-color: transparent;"> Also Available in:  
      [HTML and
@@ -333,7 +333,7 @@ id="3.1.3"></span> 
     Integrals and Line Integrals in the Plane”**
     Link: MIT: Denis Auroux’s *Multivariable Calculus:* [“III. Double
     Integrals and Line Integrals in the
-    Plane”](http://www.saylor.org/site/wp-content/uploads/2012/09/MA103-Auroux-3.1.4.pdf) (PDF)  
+    Plane”](https://resources.saylor.org/archived/wp-content/uploads/2012/09/MA103-Auroux-3.1.4.pdf) (PDF)  
         
      Instructions: Read the entire document (5 pages).  Please note that
     this reading is paired with the video lecture above so please read
@@ -391,7 +391,7 @@ id="3.1.3"></span> 
     Link: The Saylor Foundation: <span
     style="background-color: transparent; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; ">Math
     Insight’s </span>[“Introduction to Changing Variables in Double
-    Integrals”](http://www.saylor.org/site/wp-content/uploads/2012/10/MA103-Introduction-to-Changing-Variables-in-Double-Integrals.pdf) (PDF)  
+    Integrals”](https://resources.saylor.org/archived/wp-content/uploads/2012/10/MA103-Introduction-to-Changing-Variables-in-Double-Integrals.pdf) (PDF)  
       
      Also Available in:  
      <span style="background-color: transparent;"> [HTML and
@@ -423,9 +423,9 @@ id="3.1.3"></span> 
     Link: The Saylor Foundation: <span
     style="background-color: transparent; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; ">Math
     Insigh</span>t’s
-    [“](http://www.saylor.org/site/wp-content/uploads/2012/10/MA103-Vector-Field-Overview.pdf)[V](http://www.saylor.org/site/wp-content/uploads/2012/10/MA103-Vector-Field-Overview.pdf)[ector
+    [“](https://resources.saylor.org/archived/wp-content/uploads/2012/10/MA103-Vector-Field-Overview.pdf)[V](https://resources.saylor.org/archived/wp-content/uploads/2012/10/MA103-Vector-Field-Overview.pdf)[ector
     Field
-    Overview”](http://www.saylor.org/site/wp-content/uploads/2012/10/MA103-Vector-Field-Overview.pdf) (HTML<span
+    Overview”](https://resources.saylor.org/archived/wp-content/uploads/2012/10/MA103-Vector-Field-Overview.pdf) (HTML<span
     style="background-color: transparent;"> and Java)  
       
      Also Available in:  
@@ -555,7 +555,7 @@ id="3.1.3"></span> 
     style="background: transparent">Math Insight’s </span><span
     lang="zxx">[<span style="background: transparent">“An Introduction
     to a Line Integral of a Vector
-    Field”</span>](http://www.saylor.org/site/wp-content/uploads/2012/10/MA103-Introduction-to-a-Line-Integral-of-a-Vector-Field.pdf)</span><span
+    Field”</span>](https://resources.saylor.org/archived/wp-content/uploads/2012/10/MA103-Introduction-to-a-Line-Integral-of-a-Vector-Field.pdf)</span><span
     style="background: transparent"> (PDF)  
       
      Also Available in:  
@@ -673,7 +673,7 @@ id="3.2.3"></span> 
     Integrals and Line Integrals in the Plane”**
     Link: MIT: Denis Auroux’s *Multivariable Calculus:* [“III. Double
     Integrals and Line Integrals in the
-    Plane”](http://www.saylor.org/site/wp-content/uploads/2012/09/MA103-Auroux-3.3.1.pdf) (PDF)  
+    Plane”](https://resources.saylor.org/archived/wp-content/uploads/2012/09/MA103-Auroux-3.3.1.pdf) (PDF)  
         
      Instructions: Read the entire PDF document (5 pages).  Please note
     that this reading is paired with the video lecture above so please
@@ -749,7 +749,7 @@ id="3.2.3"></span> 
     Green’s Theorem”**
     Link: The Saylor Foundation: Math Insight’s [“The Idea Behind
     Green’s
-    Theorem”](http://www.saylor.org/site/wp-content/uploads/2012/10/MA103-The-Idea-Behind-Green’s-Theorem.pdf) (PDF)  
+    Theorem”](https://resources.saylor.org/archived/wp-content/uploads/2012/10/MA103-The-Idea-Behind-Green’s-Theorem.pdf) (PDF)  
       
      Also Available in:  
      [HTML and Java](http://mathinsight.org/greens_theorem_idea)  
@@ -822,7 +822,7 @@ id="3.2.3"></span> 
     Integrals and Line Integrals in the Plane”**
     Link: MIT: Denis Auroux’s *Multivariable Calculus:* [“III. Double
     Integrals and Line Integrals in the
-    Plane”](http://www.saylor.org/site/wp-content/uploads/2012/09/MA103-Auroux-3.3.4.pdf) (PDF)  
+    Plane”](https://resources.saylor.org/archived/wp-content/uploads/2012/09/MA103-Auroux-3.3.4.pdf) (PDF)  
         
      Instructions: Read the entire PDF document (4 pages) found in the
     link above.  Please note that this reading is paired with the video
